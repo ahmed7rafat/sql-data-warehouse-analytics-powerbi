@@ -51,8 +51,8 @@ Draw.io → Data Architecture & Schema Design
 ✔️ Optimized SQL queries for analytics
 ✔️ Interactive Power BI dashboard
 
-```
 📂 **Repository Structure**
+```
 sql-data-warehouse-analytics-powerbi/
 │
 ├── datasets/        # Raw CSV files (ERP & CRM data)
