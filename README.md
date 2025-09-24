@@ -51,6 +51,7 @@ Draw.io → Data Architecture & Schema Design
 ✔️ Optimized SQL queries for analytics
 ✔️ Interactive Power BI dashboard
 
+```
 📂 **Repository Structure**
 sql-data-warehouse-analytics-powerbi/
 │
@@ -60,7 +61,7 @@ sql-data-warehouse-analytics-powerbi/
 ├── reports_sql/     # SQL analytics & reporting queries
 ├── powerbi/         # Power BI dashboard & snapshot
 └── README.md        # Project overview (this file)
-
+```
 
 🚀 **Outcome**
 
